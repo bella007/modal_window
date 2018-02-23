@@ -1,0 +1,21 @@
+.dialogWin {
+  height: auto !important;
+  display: inline-block !important;
+}
+.sel {
+  width: 35% !important;
+  float: left;
+}
+.txt {
+  width: 7% !important;
+  float: left;
+}
+
+.hh:hover {
+  background-color: #f8e7e8;
+  border-radius: 100%;
+}
+.field {
+  display: block;
+  height: 50px;
+}
